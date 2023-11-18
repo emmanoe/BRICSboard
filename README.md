@@ -1,6 +1,6 @@
 # BRICSboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
+A website that compiles and displays music and album popularity charts for the Caribbean and beyond, providing insights into the most popular songs and albums in the region.
 
 ## Development server
 
